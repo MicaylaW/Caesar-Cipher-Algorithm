@@ -3,7 +3,7 @@ In this project, I developed a Python program to encrypt and decrypt user input 
 
 
 Task Overview
-You were tasked with creating a Python program that implements the Caesar Cipher, a simple encryption technique where each letter in the plaintext is shifted by a fixed number of positions in the alphabet. The program needed to allow users to input a message and a shift value to perform both encryption and decryption.
+Create a Python program that implements the Caesar Cipher, a simple encryption technique where each letter in the plaintext is shifted by a fixed number of positions in the alphabet. The program needed to allow users to input a message and a shift value to perform both encryption and decryption.
 
 Steps Taken
 Understanding the Caesar Cipher Algorithm:
