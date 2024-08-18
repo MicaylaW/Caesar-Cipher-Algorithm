@@ -37,15 +37,16 @@ After writing the code, I saved and executed it. I then tested the program by en
 
 Summary of Variables Used:
 
-text: The input message to be encrypted or decrypted.
-shift: The number of positions each letter is shifted in the alphabet.
-encrypted_text: The result of the encryption process.
-char: Each character in the input text.
-shift_amount: The effective shift value after applying the modulo operation to handle wrap-around.
-new_char: The shifted character after applying the Caesar Cipher logic.
-choice: The user's decision to either encrypt or decrypt the message.
+- text: The input message to be encrypted or decrypted.
+- shift: The number of positions each letter is shifted in the alphabet.
+- encrypted_text: The result of the encryption process.
+- char: Each character in the input text.
+- shift_amount: The effective shift value after applying the modulo operation to handle wrap-around.
+- new_char: The shifted character after applying the Caesar Cipher logic.
+- choice: The user's decision to either encrypt or decrypt the message.
 
 Summary of Resources Used:
-https://www.scaler.com/topics/caesar-cipher-python/
-ChatGPT
-https://www.youtube.com/watch?v=x71kJyNvB5o
+
+- https://www.scaler.com/topics/caesar-cipher-python/
+- ChatGPT
+- https://www.youtube.com/watch?v=x71kJyNvB5o
